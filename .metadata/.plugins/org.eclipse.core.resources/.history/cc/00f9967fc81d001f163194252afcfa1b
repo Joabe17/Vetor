@@ -1,0 +1,27 @@
+package Vetores;
+import java.util.ArrayList;
+public class atividade1 {
+	
+	
+	public static void main(String[] args) {
+		ArrayList<Integer> numero = new ArrayList<Integer>();
+		
+		int soma=0;
+		
+		numero.add(6);
+		numero.add(9);
+		numero.add(10);
+		numero.add(8);
+		numero.add(7);
+		
+		for (int numero : numero) {
+			soma=soma + numero;
+		}
+		System.out.println(soma);
+		
+		
+	}
+	
+	
+
+}

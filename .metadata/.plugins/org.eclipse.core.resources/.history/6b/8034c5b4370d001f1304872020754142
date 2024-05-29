@@ -1,0 +1,14 @@
+package estruturaposcondicionado;
+
+public class Exercicio1 {
+
+	public static void main(String[] args) {
+		int i = 4;
+		do {
+			System.out.println("Eu sou java");
+			
+		} while (i <5);
+		}
+	}
+	
+

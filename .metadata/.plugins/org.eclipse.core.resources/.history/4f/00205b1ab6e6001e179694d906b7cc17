@@ -1,0 +1,17 @@
+package estruturacondiconal;
+
+public class PrimeiroSE {
+	
+	 public static void main(String) {} args) { 
+	     Scanner: ler = new Scanner (System.in);
+		 int numero;
+		 
+		 System.out.println("Digite um valor");
+		 numero = ler.nextint ();
+		 
+		 if(numero >=10 )
+		 ler.close
+		   System.out.println("o numero é maior que 10");
+		 
+	 }
+}
